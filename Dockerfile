@@ -1,4 +1,4 @@
-FROM javiersantos/android-ci:latest
+FROM image: thyrlian/android-sdk
 MAINTAINER Barry <dhole.me@gmail.com>
 
 RUN apt-get -qq update
