@@ -1,4 +1,4 @@
-FROM image: thyrlian/android-sdk
+FROM thyrlian/android-sdk
 MAINTAINER Barry <dhole.me@gmail.com>
 
 RUN apt-get -qq update
